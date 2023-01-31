@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Beloved-vince
 - 👀 I’m a software engineer verse in deploying web-based application, web scraping and lot more in tech
 - 🌱 I’m currently learning docker
-- 💞️ I’m looking to collaborate on real life project and Algorithm design 
+- 🌱 I'm intrested in Algorithm design
+- 💞️ I’m looking to collaborate on real life project and open source contribution
 - 📫 How to reach me belovedvince@gmail.com or vinceoludare@gmail.com
 
 <!---
