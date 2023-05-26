@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Adeyemo Oluwadamilare
+- 👋 Hi, I’m Adeyemo Oluwadamilare (Beloved-Vince)
 - 👀 I’m a software engineer verse in building backend functionality of web-based application, web scraping for business analytics
 - 🌱 I’m currently learning golang
 - 🌱 I'm interested in Algorithm design
