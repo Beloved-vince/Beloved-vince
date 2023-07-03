@@ -29,7 +29,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/adeyemo-oluwadamilare-18a55b22b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Beloved-vince/" height="30" width="40" /></a>
 
-<a href="https://www.linkedin.com/in/adeyemo-oluwadamilare-18a55b22b//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adeyemo-oluwadamilare-18a55b22b/" height="30" width="40" /></a>
+<a href="https://twitter.com/Belovedvince" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="(https://twitter.com/Belovedvince)" height="30" width="40" /></a>
 
 - [![An image of @belovedvince's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/belovedvince)](https://holopin.io/@belovedvince)
 
