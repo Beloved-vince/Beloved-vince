@@ -10,33 +10,26 @@
 
 - 🔭 I’m currently working on [Habitable Planet](https://github.com/atomicstructure/habitableplanet)
 
-- 🌱 I’m currently learning **NodeJs and Django**
+- 🌱 I’m currently learning **Golang and Django**
 
-- 👯 I’m looking to collaborate on **NodeJs and Django Back-End Projects**
+- 👯 I’m looking to collaborate on **Golang and Django Back-End Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/atomicstructure/](https://github.com/atomicstructure/)
+- 👨‍💻 All of my projects are available at [https://github.com/Beloved-vince/](https://github.com/Beloved-vince/)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/ogundareoluwafemi/](https://www.linkedin.com/in/ogundareoluwafemi/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/adeyemo-oluwadamilare/](https://www.linkedin.com/in/adeyemo-oluwadamilare-18a55b22b/)
 
-- 💬 Ask me about **NodeJs and Django**
+- 💬 Ask me about **Golang and Django**
 
-- 📫 How to reach me **ogundarearnold@gmail.com**
+- 📫 How to reach me **vinceoludare@gmail.com**
 
 - 📄 Know about my experiences [unavailable for now](unavailable for now)
 
 - ⚡ Fun fact **I am a humorous person**
 
-<h3 align="left">Blog posts:</h3>
-<ul>
-  <li>https://medium.com/@ogundarearnold/my-alx-devops-journey-e10a2f232cd7</li>
-  <li>https://medium.com/@ogundarearnold/what-happens-when-you-type-google-com-in-your-browser-and-press-enter-90fd2f9265a2</li>
-  <li>https://www.linkedin.com/posts/ogundareoluwafemi_nodejs-softwareengineering-data-activity-7060277057812897792-rL60?utm_source=share&utm_medium=member_desktop</li>
-</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/atomictsructure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atomictsructure" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ogundareoluwafemi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ogundaroluwafemi/" height="
+<a href="https://www.linkedin.com/in/adeyemo-oluwadamilare-18a55b22b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Beloved-vince/" height="
 
 - [![An image of @belovedvince's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/belovedvince)](https://holopin.io/@belovedvince)
 
