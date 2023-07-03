@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/atomictsructure" target="blank"><img src="https://img.shields.io/twitter/follow/atomictsructure?logo=twitter&style=for-the-badge" alt="atomictsructure" /></a> </p>
 
-- 🔭 I’m currently working on [Habitable Planet](https://github.com/atomicstructure/habitableplanet)
+- 🔭 I’m currently working on [E-commercet](https://github.com/Beloved-vince/E-commerce-web-application)
 
 - 🌱 I’m currently learning **Golang and Django**
 
