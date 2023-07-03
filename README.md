@@ -31,6 +31,7 @@
 
 <a href="https://twitter.com/Belovedvince" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="(https://twitter.com/Belovedvince)" height="30" width="40" /></a>
 </p>
+
 - [![An image of @belovedvince's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/belovedvince)](https://holopin.io/@belovedvince)
 
 <!---
