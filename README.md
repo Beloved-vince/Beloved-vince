@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atomicstructure" alt="atomicstructure" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/atomictsructure" target="blank"><img src="https://img.shields.io/twitter/follow/atomictsructure?logo=twitter&style=for-the-badge" alt="atomictsructure" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Belovedvince" target="blank"><img src="https://img.shields.io/twitter/follow/Belovedvince?logo=twitter&style=for-the-badge" alt="Belovedvince" /></a> </p>
 
 - 🔭 I’m currently working on [E-commercet](https://github.com/Beloved-vince/E-commerce-web-application)
 
