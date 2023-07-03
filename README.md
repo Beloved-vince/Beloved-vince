@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **vinceoludare@gmail.com**
 
-- 📄 Know about my experiences [unavailable for now](unavailable for now)
+- 📄 Know about my experiences As a dedicated software engineer, I am eager to embark on an exciting career in the field. While I may not have secured a job yet, I have been actively building my skills and gaining valuable experience through various avenues.
 
 - ⚡ Fun fact **I am a humorous person**
 
