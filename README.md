@@ -16,8 +16,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Beloved-vince/](https://github.com/Beloved-vince/)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/adeyemo-oluwadamilare/](https://www.linkedin.com/in/adeyemo-oluwadamilare-18a55b22b/)
-
 - 💬 Ask me about **Golang and Django**
 
 - 📫 How to reach me **vinceoludare@gmail.com**
@@ -29,7 +27,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/adeyemo-oluwadamilare-18a55b22b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Beloved-vince/" height="
+<a href="https://www.linkedin.com/in/adeyemo-oluwadamilare-18a55b22b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Beloved-vince/" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/adeyemo-oluwadamilare-18a55b22b//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adeyemo-oluwadamilare-18a55b22b/" height="30" width="40" /></a>
 
 - [![An image of @belovedvince's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/belovedvince)](https://holopin.io/@belovedvince)
 
