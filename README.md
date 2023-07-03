@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adeyemo, Oludare Emmanuel</h1>
+<h1 align="center">Hi 👋, I'm Adeyemo Oluwadamilare Emmanuel</h1>
 <h3 align="center">As a passionate software engineer with a strong focus on backend development, I've had an incredible journey in the world of technology. I am dedicated to building robust and scalable solutions that make a positive impact on people's lives.</h3>
 <img align="right" alt="Coding" width="400" src="https://cleancommit.io/static/4210533edc0ecaa67e1c734e159da855/8c32c/website-programmer-resized.avif">
 
