@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adeyemo, Oludare Emmanuel</h1>
 <h3 align="center">I am a software engineer versed in Backend development</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img align="right" alt="Coding" width="400" src="https://cleancommit.io/static/4210533edc0ecaa67e1c734e159da855/8c32c/website-programmer-resized.avif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atomicstructure&label=Profile%20views&color=0e75b6&style=flat" alt="atomicstructure" /> </p>
 
