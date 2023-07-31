@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atomicstructure&label=Profile%20views&color=0e75b6&style=flat" alt="atomicstructure" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atomicstructure" alt="atomicstructure" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beloved-vince" alt="beloved-vince" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/Belovedvince" target="blank"><img src="https://img.shields.io/twitter/follow/Belovedvince?logo=twitter&style=for-the-badge" alt="Belovedvince" /></a> </p>
 
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **vinceoludare@gmail.com**
 
-- 📄 Know about my experiences As a dedicated software engineer, I am eager to embark on an exciting career in the field. While I may not have secured a job yet, I have been actively building my skills and gaining valuable experience through various avenues.
+- 📄 Know about my experiences As a dedicated software engineer, I am eager to embark on an exciting career in the field. I have been actively building my skills and gaining valuable experience through various avenues.
 
 - ⚡ Fun fact **I am a humorous person**
 
