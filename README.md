@@ -9,8 +9,7 @@
 <p align="left"> <a href="https://twitter.com/Belovedvince" target="blank"><img src="https://img.shields.io/twitter/follow/Belovedvince?logo=twitter&style=for-the-badge" alt="Belovedvince" /></a> </p>
 
 - 🔭 I’m currently working on [Peer to Peer Lending Platform a fintech application](https://github.com/Beloved-vince/InvestFlowAPI)
-- 🔭 I’m currently contributing to Meshery, Layer5 open source project (Devops Figma 😊)
-
+- 🔭 I’m currently contributing on Meshery, Layer5 open source project (Devops Figma 😊)
 - 🌱 I’m currently learning **React and Nodejs**
 
 - 👯 I’m looking to collaborate on open source project and available to utilize my skill together with teams to build result oriented software
