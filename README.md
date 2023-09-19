@@ -26,7 +26,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/adeyemo-oluwadamilare-18a55b22b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Beloved-vince/" height="30" width="40" /></a> <a href="https://twitter.com/Belovedvince" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="(https://twitter.com/Belovedvince)" height="30" width="40" /></a></a>
+<a href="https://www.linkedin.com/in/adeyemo-oluwadamilare-18a55b22b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Beloved-vince/" height="30" width="40" /></a> <a href="https://twitter.com/Belovedvince" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="(https://twitter.com/Belovedvince)" height="30" width="40" /></a>
 <a href="https://vinceoludare.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="(https://twitter.com/Belovedvince)" height="30" width="40" /></a>
 
 
