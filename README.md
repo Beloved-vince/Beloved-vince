@@ -9,17 +9,17 @@
 <p align="left"> <a href="https://twitter.com/Belovedvince" target="blank"><img src="https://img.shields.io/twitter/follow/Belovedvince?logo=twitter&style=for-the-badge" alt="Belovedvince" /></a> </p>
 
 - 🔭 I’m currently working on [Peer to Peer Lending Platform a fintech application](https://github.com/Beloved-vince/InvestFlowAPI)
-- 🔭 I’m currently contributing on Meshery, Layer5 open source project (Devops Figma 😊)
-- 🌱 I’m currently learning **React and Nodejs**
+- 🔭 I’m contributed on Meshery, Layer5 open source project (Devops Figma 😊)
+- 🌱 I’m currently learning **Machine learning and Algorithm**
 
 - 👯 I’m looking to collaborate on open source project and available to utilize my skill together with teams to build result oriented software
 - 👨‍💻 All of my projects are available at [https://github.com/Beloved-vince/](https://github.com/Beloved-vince/)
 
-- 💬 Ask me about **HTML/CSS/JAVASCRIPT, Golang and Django**
+- 💬 Ask me about **Research, Technical Writing and AI**
 
 - 📫 How to reach me **vinceoludare@gmail.com**
 
-- 📄 Know about my experiences As a dedicated software engineer, I am eager to embark on an exciting career in the field. I have been actively building my skills and gaining valuable experience through various avenues.
+- 📄 Know about my experiences As a dedicated software engineer and a ML enthusiast, I am eager to embark on an exciting career in the field. I have been actively building my skills and gaining valuable experience through various avenues.
 
 - ⚡ Fun fact **I am a humorous person and result driven engineer that enjoy contributing to development of an organisation**
 
