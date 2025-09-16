@@ -17,7 +17,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently building: **Fashionistar Ecommerce** — scalable backend, payments & shipping integrations.  
+- 🔭 Currently building: **UniversityX Edutech software** — scalable backend, Optimize learning process & Course integrations, e.t.c  
 - 🌱 Learning & focusing on: **ML productionization, model serving (Hugging Face / TorchServe), and large-scale data pipelines**.  
 - 🔍 Target roles: Backend / Infrastructure / ML Engineering roles at top-tier tech companies (Meta, Amazon, Google).  
 - 📫 Email: `vinceoludare@gmail.com` • LinkedIn: https://www.linkedin.com/in/adeyemo-oluwadamilare-18a55b22b/
@@ -25,23 +25,22 @@
 ---
 
 ### 📂 Featured Projects
-- **Fashionistar Ecommerce** — Full-featured e-commerce API with auth, payments, and microservices. (NestJS, TypeScript, PostgreSQL, Redis, Docker, Kubernetes)  
-  `https://github.com/Beloved-vince/InvestFlowAPI`
+- **UniversityX (EdTech Platform)** — Scalable, cloud-native learning management and e-commerce API for digital education. Features include secure authentication, course payments, content delivery, and microservices-based architecture. Built with **NestJS + TypeScript**, powered by **PostgreSQL & Redis** for performance, and containerized with **Docker** + **Kubernetes** for high availability. Deployed on **Azure Cloud** with CI/CD pipelines, monitoring, and analytics. Future-ready with **AI-driven recommendations** and **student performance insights**.
+  `https://universityx.app`
 
-- **AI Playground** — Experiments: model training, fine-tuning & inference pipelines (PyTorch, Hugging Face, FastAPI).  
-  `https://github.com/Beloved-vince/AI-Lab` *(create or link if you have one)*
-
+- **Telex (AI Playground)** — Experiments: model training, fine-tuning & inference pipelines (PyTorch, Hugging Face, FastAPI).  
+  `https://telex.im`
 - **DevOps / Meshery Contributions** — Open-source contributions improving DevOps tooling & design workflows.  
   `https://github.com/layer5io/meshery`
 
 ---
 
 ### 🛠️ FAANG-Ready Skills & Strengths
-- **Programming:** TypeScript, Node (NestJS, Express), Python.  
+- **Programming:** TypeScript, Node (NestJS, Express), Python (Django, Flask, FastApi).  
 - **System Design:** Microservices, API gateways, CQRS, Event-driven architecture, RBAC, caching, rate-limiting.  
-- **Cloud & Infra:** AWS / Azure / GCP — Kubernetes, Docker, Terraform, Helm, CI/CD (GitHub Actions, Jenkins).  
-- **Data & Streaming:** PostgreSQL, MySQL, MongoDB, Redis, Kafka, RabbitMQ, ElasticSearch.  
-- **Observability & Ops:** Prometheus, Grafana, OpenTelemetry, ELK stack, structured logging & tracing.  
+- **Cloud & Infra:** AWS / Azure / GCP — Kubernetes, Docker, CI/CD (GitHub Actions, Jenkins).  
+- **Data & Streaming:** PostgreSQL, MySQL, MongoDB, Redis.  
+- **Observability & Ops:** Prometheus, Grafana, structured logging & tracing.  
 - **ML & AI:** PyTorch, TensorFlow, scikit-learn, Hugging Face, model serving (FastAPI/TorchServe), ML pipelines.  
 - **Security & Auth:** OAuth2, JWT, SSO patterns, secure-by-default development practices.  
 - **Interview-ready:** Data structures & algorithms, complexity analysis, system design, production debugging.
@@ -66,16 +65,6 @@
 
 ---
 
-### 🧩 High-Impact Portfolio Ideas (add these repos or link if already present)
-These are the kinds of projects hiring managers at Meta/Amazon/Google love to see — **make one or more and link them in README**:
-1. **Scalable E-commerce Microservices** — Auth, Product, Order, Payments, Inventory; K8s + Helm + autoscaling.  
-2. **Real-time Stream Processor** — Kafka streams, event-sourcing, aggregation & exactly-once semantics.  
-3. **ML Model Production Pipeline** — Training → Validation → Serving (Hugging Face / TorchServe) with CI for models.  
-4. **Infrastructure as Code Demo** — Terraform + Azure/GCP/AWS multi-environment setup with blue/green deployment.  
-5. **Observability Demo** — Distributed tracing with OpenTelemetry + Prometheus + Grafana dashboards.
-
----
-
 ### 🎯 How I make impact
 - Design systems for **resilience, observability and cost-efficiency**.  
 - Ship features quickly with **test automation & robust CI/CD**.  
@@ -85,7 +74,6 @@ These are the kinds of projects hiring managers at Meta/Amazon/Google love to se
 ---
 
 ### 📚 Interview & Hiring Prep Checklist
-- ✅ Public, well-documented repos with meaningful README + architecture diagrams.  
 - ✅ At least one production-like service deployed to a cloud provider with infra-as-code.  
 - ✅ A project demonstrating streaming or async/event-driven architecture.  
 - ✅ A small ML deployment showing end-to-end training → serving → monitoring.  
@@ -107,6 +95,3 @@ These are the kinds of projects hiring managers at Meta/Amazon/Google love to se
 
 ---
 
-<p align="center">
-  <small>If you'd like, I can also generate: (1) a concise single-page resume badge, (2) sample architecture diagram SVGs for your projects, or (3) a GitHub Action workflow to auto-update your blog & contribution widgets — tell me which and I’ll add them directly to this README.</small>
-</p>
