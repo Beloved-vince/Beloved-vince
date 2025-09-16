@@ -49,10 +49,8 @@
 
 ### 🧰 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nestjs,node,express,react,nextjs,python,fastapi,java,go,aws,azure,gcp,docker,k8s,terraform,helm,postgres,mysql,mongodb,redis,kafka,rabbitmq,graphql,grpc,elasticsearch,openai,huggingface,tf,pytorch,sklearn,jupyter,git,github,linux,nginx&theme=light" />
+  <img src="https://skillicons.dev/icons?i=ts,nestjs,node,express,python,fastapi,java,aws,azure,gcp,docker,postgres,mysql,mongodb,redis,kafka,rabbitmq,graphql,grpc,openai,huggingface,tf,pytorch,sklearn,jupyter,git,github,linux,nginx&theme=light" />
 </p>
-
-> Note: the icons above represent the technologies to showcase. Make sure your repos and projects include real work on these to demonstrate competence.
 
 ---
 
