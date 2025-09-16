@@ -18,6 +18,18 @@
 
 ---
 
+### 📂 Featured Projects
+- 🛍️ [Fashionistar Ecommerce](https://github.com/Beloved-vince/InvestFlowAPI)  
+  Full-stack ecommerce platform with secure authentication, payment integration, and scalable backend.  
+
+- ⚡ [DevOps Figma Plugin Contributions](https://github.com/meshery/meshery)  
+  Open-source contributions to Layer5 & Meshery for improving DevOps design workflows.  
+
+- 🤖 [AI Playground](https://github.com/Beloved-vince/AI-Lab)  
+  Experiments with ML models, algorithms, and AI-based tools.  
+
+---
+
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/adeyemo-oluwadamilare-18a55b22b/" target="blank">
@@ -58,7 +70,25 @@
 
 ---
 
+### 🎯 2025 Goals
+- Build impactful open-source projects 💻  
+- Contribute to AI/ML research papers 📑  
+- Collaborate with global developer communities 🌍  
+- Improve expertise in Cloud & DevOps ☁️  
+
+---
+
+### 🐍 Contribution Snake
+![snake gif](https://github.com/Beloved-vince/Beloved-vince/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ### 🎖️ Badges
 [![Holopin badges](https://holopin.me/belovedvince)](https://holopin.io/@belovedvince)
 
 ---
+
+### 🎮 Fun Facts
+- I enjoy solving algorithms the way some people enjoy puzzles 🧩  
+- Big fan of football ⚽ & strategy games ♟️  
+- I believe humor makes debugging easier 😅  
