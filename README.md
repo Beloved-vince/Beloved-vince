@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adeyemo Oluwadamilare Emmanuel</h1>
+<h1 align="center">Hi 👋, I'm  Oludare Adeyemo</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?style=for-the-badge" alt="open-to-work" />
   <img src="https://komarev.com/ghpvc/?username=Beloved-vince&style=flat" alt="profile-views" />
@@ -59,6 +59,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Beloved-vince&show_icons=true&theme=radical" alt="github-stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Beloved-vince&theme=radical" alt="streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Beloved-vince&show_icons=true&layout=compact&theme=radical" alt="top-langs" />
+</p>
+
+<p align="center">
+  <b>🧮 Total commits (public + private):</b> <!--COMMITS_COUNT-->
 </p>
 
 ---
